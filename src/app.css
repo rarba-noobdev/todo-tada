@@ -1,0 +1,17 @@
+@import 'tailwindcss';
+body {
+    background-color: #000000;
+    font-family: 'Satoshi', sans-serif;
+    color: #FF6500;
+
+}
+
+
+button {
+    color: black;
+    /* background-color: #FF6500; */
+}
+
+svg {
+     background-color: #FF6500; 
+}
